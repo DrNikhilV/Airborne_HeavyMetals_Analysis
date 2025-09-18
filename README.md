@@ -1,4 +1,4 @@
-# Airborne-HeavyMetals-Analysis
+# Airborne Heavy Metals Analysis
 Airborne Emissions of Heavy Metals and Their Health Implications: A Regional Analysis
 
 This study is significant as it addresses the issue of airborne heavy metal pollution and its
