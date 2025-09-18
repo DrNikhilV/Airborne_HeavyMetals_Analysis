@@ -1,4 +1,4 @@
-# Airborne Heavy Metals Analysis
+# Airborne-HeavyMetals-Analysis
 Airborne Emissions of Heavy Metals and Their Health Implications: A Regional Analysis
 
 This study is significant as it addresses the issue of airborne heavy metal pollution and its
@@ -17,3 +17,12 @@ by the UK's Environmental Accounts team, the dataset offers insights into indust
 trends over time, helping to inform environmental policy and research.
 
 The dataset can be found here: https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsheavymetalpollutantemissionsbyeconomicsectorandgasunitedkingdom
+
+
+Reference:
+
+ETS - Exponential Smoothing
+LR - Linear Regression
+SVM - Support Vector Machine
+RF - Random Forest
+MC - Monte Carlo
